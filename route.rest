@@ -1,0 +1,7 @@
+POST  http://127.0.0.1:5555/movies
+Content-Type:application/json
+
+{
+   "title":"Apadeya",
+   "desc":"Seri"
+}
